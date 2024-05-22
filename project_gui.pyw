@@ -1,6 +1,7 @@
 import sys
 sys.path.append('C:/Users/Soumyajit/AppData/Local/Programs/Python/Python310/Lib/site-packages')
 
+#kundu mukhe nee
 import os
 import shutil
 import PySimpleGUI as sg
